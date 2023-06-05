@@ -1,1 +1,1 @@
-print('Ola')
+print('Ola')print(2+2)
